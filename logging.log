@@ -1,0 +1,5 @@
+2020-11-03 05:50:51,924:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2020-11-03 05:50:51,929:INFO:discord.client: logging in using static token
+2020-11-03 05:50:52,523:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2020-11-03 05:50:52,811:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-n652",{"micros":87876,"calls":["discord-sessions-prd-2-49",{"micros":86524,"calls":["start_session",{"micros":54701,"calls":["api-prd-main-55k7",{"micros":51649,"calls":["get_user",{"micros":4937},"add_authorized_ip",{"micros":2027},"get_guilds",{"micros":2329},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":24752,"calls":[]}]}]}] (Session ID: b7bc6730d2bc77f1405c9ab10bddee1f).
+2020-11-03 05:50:54,881:INFO:discord: Moon Bot | 770238694392463362
